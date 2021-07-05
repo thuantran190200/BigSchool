@@ -101,7 +101,6 @@ D:\TH_LAPTRINHWEB\DuAn\BigSchool\BigSchool\bin\Microsoft.Owin.Security.Twitter.x
 D:\TH_LAPTRINHWEB\DuAn\BigSchool\BigSchool\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 D:\TH_LAPTRINHWEB\DuAn\BigSchool\BigSchool\bin\Microsoft.Owin.Security.OAuth.xml
 D:\TH_LAPTRINHWEB\DuAn\BigSchool\BigSchool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\TH_LAPTRINHWEB\DuAn\BigSchool\BigSchool\obj\Debug\BigSchool.csprojAssemblyReference.cache
 D:\TH_LAPTRINHWEB\DuAn\BigSchool\BigSchool\obj\Debug\BigSchool.csproj.CoreCompileInputs.cache
 D:\TH_LAPTRINHWEB\DuAn\BigSchool\BigSchool\obj\Debug\BigSchool.csproj.CopyComplete
 D:\TH_LAPTRINHWEB\DuAn\BigSchool\BigSchool\obj\Debug\BigSchool.dll
@@ -110,3 +109,4 @@ D:\TH_LAPTRINHWEB\DuAn\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.Initia
 D:\TH_LAPTRINHWEB\DuAn\BigSchool\BigSchool\obj\Debug\BigSchool.csproj.GenerateResource.cache
 D:\TH_LAPTRINHWEB\DuAn\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.CreateTableCourse.resources
 D:\TH_LAPTRINHWEB\DuAn\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.PopulateCategoryTable.resources
+D:\TH_LAPTRINHWEB\DuAn\BigSchool\BigSchool\obj\Debug\BigSchool.csproj.AssemblyReference.cache
