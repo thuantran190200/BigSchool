@@ -110,3 +110,4 @@ D:\TH_LAPTRINHWEB\DuAn\BigSchool\BigSchool\obj\Debug\BigSchool.csproj.GenerateRe
 D:\TH_LAPTRINHWEB\DuAn\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.CreateTableCourse.resources
 D:\TH_LAPTRINHWEB\DuAn\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.PopulateCategoryTable.resources
 D:\TH_LAPTRINHWEB\DuAn\BigSchool\BigSchool\obj\Debug\BigSchool.csproj.AssemblyReference.cache
+D:\TH_LAPTRINHWEB\DuAn\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.AddNameColumnToApplicationUser.resources

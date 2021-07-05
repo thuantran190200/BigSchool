@@ -2,6 +2,40 @@
     padding-top: 50px;
     padding-bottom: 20px;
 }
+.navbar-inverse {
+    background-color: #e7ff48;
+    border-color: #ff0000;
+    
+}
+.navbar-inverse .navbar-nav > li > a{
+    color: red
+}
+.navbar-inverse .navbar-brand{
+    color: red;
+}
+
+/*Course layout*/
+.course{
+    list-style: none;
+}
+.course > li{
+    position: relative;
+    margin-bottom: 30px;
+}
+.course > li .date{
+    text-align: center;
+    background-color: #ff0000;
+    color: white;
+    width: 60px;
+    border-radius: 8px;
+}
+.course >li .details{
+    position: absolute;
+    top: 0;
+    left: 70px;
+}
+
+
 
 /* Set padding to keep content from hitting the edges */
 .body-content {
