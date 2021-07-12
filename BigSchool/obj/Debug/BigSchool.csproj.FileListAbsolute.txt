@@ -119,3 +119,4 @@ D:\TH_LAPTRINHWEB\DuAn\BigSchool\BigSchool\bin\System.Net.Http.Formatting.xml
 D:\TH_LAPTRINHWEB\DuAn\BigSchool\BigSchool\bin\System.Web.Http.xml
 D:\TH_LAPTRINHWEB\DuAn\BigSchool\BigSchool\bin\System.Web.Http.WebHost.xml
 D:\TH_LAPTRINHWEB\DuAn\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.AddFollowingsTable.resources
+D:\TH_LAPTRINHWEB\DuAn\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.AddIsCanceledColumnToCourse.resources
